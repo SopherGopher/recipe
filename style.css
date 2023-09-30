@@ -19,7 +19,7 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 .box1 { background:#ff7a7a;}
 .box2 { background:pink;}
 .box3 { background:#9b59b6;}
-.box4 { background:#34495e;}
+.box4 { background:#9c364e;}
 .box5 { background:#ff91d9;}
 .box6 { background:#540022;}
 .box7 { background:#e74c3c;}
@@ -66,7 +66,6 @@ h1 {
 .prep_list_header {
   text-align: center;
   font-size: 40px;
-  padding: 20px;
 }
 
 .prep_list {
