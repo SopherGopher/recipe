@@ -1,0 +1,1 @@
+All images credited to AdobeStock. Visit them here: https://stock.adobe.com/
